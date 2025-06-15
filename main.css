@@ -14,3 +14,8 @@ th {
     color: white;
     padding: 12px;
 }
+td {
+    border: 2px solid #ddd;
+    text-align: center;
+    font-weight: 600;  /* Новое свойство (конфликт с bold!) */
+}
