@@ -8,3 +8,9 @@ h1 {
     text-align: center;
     text-transform: uppercase;
 }
+
+th {
+    background-color: navy;
+    color: white;
+    padding: 12px;
+}
