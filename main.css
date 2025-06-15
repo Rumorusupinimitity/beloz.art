@@ -22,3 +22,18 @@ td {
     font-weight: 600;
     padding:  10 px;
 }
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+footer a {
+    text-decoration: none;
+    color: navy;
+}
+
+footer a:hover {
+    color: crimson;
+}
