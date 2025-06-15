@@ -17,5 +17,8 @@ th {
 td {
     background: #f9f9f9;
     font-size: italic;
-    font-weight: bold;
+    border: 2px solid #ddd;
+    text-align: center;
+    font-weight: 600;
+    padding:  10 px;
 }
